@@ -1,2 +1,2 @@
 # .github.io
-some thoughts...
+<!-- trigger GitHub Pages rebuild -->
